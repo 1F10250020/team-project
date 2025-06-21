@@ -6,10 +6,22 @@ body {
     padding: 0;
     line-height: 1.6;
 }
+
+
 h1{
     color: black;
     font-family:sans-serif;
     text-align: center;
+}
+
+.index h2{
+    text-align: center;
+}
+
+.index p{
+    color: gray;
+    text-align: center;
+
 }
 ul {
     padding-left: 20px;
