@@ -1,0 +1,38 @@
+
+
+.ramen{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.ramen-image img{
+    max-width: 100%; 
+    height: auto;
+    display: block
+}
+
+.ramen-detail {
+     flex-grow: 1;
+
+}
+
+.ramen-details h2 {
+    margin-top: 0;
+}
+
+.ramen-details ul {
+    margin-bottom: 0;
+    padding-left: 20px; 
+}
+
+ul {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+}

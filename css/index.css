@@ -9,18 +9,27 @@ body {
 
 
 h1{
-    color: black;
-    font-family:sans-serif;
+    color: black 
+    font-family:sans-serif ;
     text-align: center;
+    font-size: 70px
+    
+}
+
+.index ol {
+    font-size: 30px;
+
 }
 
 .index h2{
     text-align: center;
+    font-size: 40px;
 }
 
 .index p{
     color: gray;
     text-align: center;
+    font-size: 30px ;
 
 }
 ul {
@@ -28,6 +37,12 @@ ul {
     margin-bottom: 20px;
 }
 
+.index h3{
+    font-size: 50px;
+}
+
 p {
     margin: 10px 0;
 }
+
+
