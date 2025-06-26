@@ -1,5 +1,5 @@
 body { 
-    background-color: #fff;
+    background-color: #f0efe0;
     color: #333;
     font-family: sans-serif;
     margin: 40px;
@@ -45,4 +45,21 @@ p {
     margin: 10px 0;
 }
 
+.ramen-button{
+    
+    display: inline-block;
+    background-color: #ebbf68; 
+    color:black;
+    padding: 8px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 10px;
+    width: 800px;
+    height: 200px;
+    text-align: center;
+    line-height: 40px;
+  }
 
+.name{
+    font-size: 50px;
+}

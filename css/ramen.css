@@ -1,4 +1,7 @@
 
+body{
+   background-color:  #f0efe0;
+}
 
 .ramen{
     display: flex;
