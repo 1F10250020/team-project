@@ -63,3 +63,9 @@ p {
 .name{
     font-size: 50px;
 }
+
+hr{
+    border-color:  #a0522d;
+    border-top-width: 3px
+
+}
