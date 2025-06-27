@@ -71,6 +71,7 @@ ul#detail1{
     font-family: serif;
     font-size: 30px;
     margin: 20px 0px 20px 40px;
+    list-style: square;
 }
 
 p#locate1{
@@ -86,6 +87,10 @@ p#time1{
 
 p#link1{
     font-family: serif;
+}
+
+hr#kugiri1{
+    border-top-width: 3px
 }
 
 .back{
