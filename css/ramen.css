@@ -44,3 +44,28 @@ p {
 .ramen-detail{
     font-size: 30px;
 }
+
+h2#midashi1{
+    font-family: serif;
+    font-size: 35px;
+}
+
+p#name1{
+    font-family: serif;
+}
+
+ul#detail1{
+    font-family: serif;
+}
+
+p#locate1{
+    font-family: serif;
+}
+
+p#time1{
+    font-family: serif;
+}
+
+p#link1{
+    font-family: serif;
+}
