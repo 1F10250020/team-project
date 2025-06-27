@@ -1,5 +1,5 @@
 body { 
-    background-color: #f0efe0;
+    background-color: #f0eed7;
     color: #333;
     font-family: sans-serif;
     margin: 40px;
@@ -52,13 +52,21 @@ p {
     color:black;
     padding: 8px 15px;
     border-radius: 5px;
-    text-decoration: none;
     margin-top: 10px;
+    margin-bottom: 10px;
     width: 800px;
     height: 200px;
     text-align: center;
     line-height: 40px;
+    box-shadow: 0 5px 3px 0 #8e6e48;
+    text-decoration: none;
   }
+
+.ramen-button:active{
+  top: 3px; 
+  box-shadow: 0 2px 0 0 #866032;
+}
+
 
 .name{
     font-size: 50px;
