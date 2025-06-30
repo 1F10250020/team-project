@@ -81,12 +81,13 @@ ul#detail1 li::marker{
 p#locate1{
     font-family: serif;
     font-size: 30px;
-    
+    margin: 0px 10px 0px 10px;
 }
 
 p#time1{
     font-family: serif;
     font-size: 30px;
+    margin: 0px 10px 0px 10px;
 }
 
 p#link1{
