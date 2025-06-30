@@ -50,7 +50,7 @@ h2#midashi1{
     font-family: serif;
     font-size: 50px;
     background-color: rgb(252, 206, 91);
-    margin: 0;                 
+    margin: 50px 0px 0px 0px;                 
     padding: 5px 240px 5px 5px;
     border-bottom: 5px solid rgb(33, 33, 28);
 }
@@ -72,6 +72,9 @@ ul#detail1{
     font-size: 30px;
     margin: 20px 0px 20px 40px;
     list-style: square;
+}
+ul#detail1 li::marker{
+    color: rgb(178, 14, 14);
 }
 
 p#locate1{
