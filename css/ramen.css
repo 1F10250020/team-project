@@ -2,6 +2,7 @@
 body{
    background-color: #f0eed7;
    font-family: serif;
+   text-align: center;
 }
 
 .ramen{
@@ -115,4 +116,7 @@ hr#kugiri1{
     flex-direction: row; 
     align-items: center;
     text-align: left;
+    text-align: center;
+
 }
+
